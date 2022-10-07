@@ -1,4 +1,4 @@
-package com.emretnkl.rvadapterexample
+package com.emretnkl.bootcamprvassignment
 
 import org.junit.Test
 
