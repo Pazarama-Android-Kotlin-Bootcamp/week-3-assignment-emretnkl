@@ -1,7 +1,7 @@
 # Week-3-Assignment
 
 &nbsp;&nbsp;&nbsp;&nbsp; This is Week 3 Assignment of the Pazarama Android Bootcamp. Structures such as RecyclerView and Navigation component were used in this project. The Glide library was also used.
-![Alt text](countriesAppScreenRecord.gif) / ![](countriesAppScreenRecord.gif)
+![Alt text](https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-3-assignment-emretnkl/blob/main/countriesAppScreenRecord.gif)
 
 ## Take Notes
 ### 1. Recylerview, Jetpack Navigation Component, Fragment kullanarak bir app yapılması bekleniyor.
